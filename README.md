@@ -1,8 +1,8 @@
 <h2 align="center">Hey, I'm Natasja 👋</h2>
 
 <p align="center">
-  <a href="https://natasja.dev/">Website</a> •
-  <a href="https://https://www.linkedin.com/in/natasja-laurie"/>Linkedin</a>
+  <a href="https://natasja.dev/" target="_blank">Website</a> •
+  <a href="https://https://www.linkedin.com/in/natasja-laurie" target="_blank"/>Linkedin</a>
 </p>
 
 I'm a __software developer__, based in Melbourne, Australia. I love __learning__ new tech as well as __teaching__!
