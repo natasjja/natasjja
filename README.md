@@ -9,6 +9,6 @@
 I'm a __software developer__, based in Melbourne, Australia. I love __learning__ new tech as well as __teaching__!
 
 💻  I'm a software developer at [A Cloud Guru](https://www.acloud.guru) <br />
-🍎   I teach frontend web development at [General Assembly](https://generalassemb.ly/) <br />
+🍎   I teach the Frontend Web Development immersive course at [General Assembly](https://generalassemb.ly/) <br />
 🌱  I’m currently diving deeper into serverless architecture & cloud services<br />
 💜 I love working on the full solution of a problem, writing frontend & backend code
