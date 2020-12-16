@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/natasja-laurie"/>LinkedIn</a>
 </p>
 
-I'm a __software dev__, based in Melbourne, 🇦🇺. I love __learning__ new tech as well as __teaching__!
+I'm a __software dev__ from Britain 🇬🇧 &nbsp; & based in Melbourne, 🇦🇺
 
-💻  I'm a software developer at [A Cloud Guru](https://www.acloudguru.com) <br />
-🍎   I teach the Frontend Web Development immersive course at [General Assembly](https://generalassemb.ly/) <br />
-🌱  I’m currently diving deeper into cloud architecture & services<br />
-💜 I love working on the full solution of a problem, writing frontend & backend code
+💻 &nbsp; I work at [A Cloud Guru](https://www.acloudguru.com), and love it! <br />
+🍎 &nbsp; I teach the Frontend Web Development immersive course at [General Assembly](https://generalassemb.ly/) <br />
+🌱 &nbsp; I’m currently diving deeper into cloud architecture & services<br />
+💜 &nbsp; I love working on the full solution of a problem, writing frontend & backend code
