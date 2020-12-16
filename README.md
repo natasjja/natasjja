@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/natasja-laurie"/>LinkedIn</a>
 </p>
 
-I'm a __software dev__ from Britain 🇬🇧 &nbsp; & based in Melbourne &nbsp; 🇦🇺
+I'm a __software dev__ from Britain 🇬🇧 &nbsp; & based in Melbourne&nbsp; 🇦🇺
 
 💻 &nbsp; Working at [A Cloud Guru](https://www.acloudguru.com), and love it! <br />
 🍎 &nbsp; Teaching the Frontend Web Development immersive course at [General Assembly](https://generalassemb.ly/) <br />
