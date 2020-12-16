@@ -8,7 +8,7 @@
 
 I'm a __software dev__ from Britain 🇬🇧 &nbsp; & based in Melbourne, 🇦🇺
 
-💻 &nbsp; I work at [A Cloud Guru](https://www.acloudguru.com), and love it! <br />
-🍎 &nbsp; I teach the Frontend Web Development immersive course at [General Assembly](https://generalassemb.ly/) <br />
-🌱 &nbsp; I’m currently diving deeper into cloud architecture & services<br />
+💻 &nbsp; Working at [A Cloud Guru](https://www.acloudguru.com), and love it! <br />
+🍎 &nbsp; Teaching the Frontend Web Development immersive course at [General Assembly](https://generalassemb.ly/) <br />
+🌱 &nbsp; Currently diving deeper into cloud architecture & services<br />
 💜 &nbsp; I love working on the full solution of a problem, writing frontend & backend code
